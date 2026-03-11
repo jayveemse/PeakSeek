@@ -1,0 +1,4 @@
+Assignment,Lit_eV,Status,Exp_eV,Shift_meV,Sigma_meV,Amplitude
+FE,3.478,FOUND,3.4706,-7.41,6.7,8955.7
+DBE,3.471,FOUND,3.4706,-0.41,6.7,8955.7
+ABE,3.466,FOUND,3.4706,4.59,6.7,8955.7
